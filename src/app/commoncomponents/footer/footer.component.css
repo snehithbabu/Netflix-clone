@@ -1,0 +1,45 @@
+/*a {
+  color: #a8a8a8;
+  margin: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.col{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 60px;
+}
+*/
+
+.row-head{
+  padding: 0px 90px;
+  font-size: 1rem;
+}
+
+footer{
+  display: flex;
+}
+
+a{
+  color: #c0c0c0;
+  display: block;
+  padding: 10px;
+  font-size: 0.9rem;
+}
+
+.row {
+  display: flex;
+  padding: 0px 20px;
+}
+
+.col{
+  padding: 0px 70px;
+}
+
+
+
